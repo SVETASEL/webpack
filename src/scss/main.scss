@@ -1,0 +1,20 @@
+@import "base";
+
+.App {
+	width: auto;
+	max-width: 1000px;
+	margin: 30px auto;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+.items {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	margin-right: 30px;
+}

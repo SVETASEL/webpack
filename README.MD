@@ -1,4 +1,4 @@
-#№ Сборка Webpack TypeScript, React, Redux
+## Сборка Webpack TypeScript, React, Redux
 
 ## Структура Папок
 <pre>
